@@ -1,0 +1,2 @@
+# No third-party packages needed. Uses only the Python standard library (tkinter).
+# Linux only: sudo apt install python3-tk
